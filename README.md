@@ -36,6 +36,9 @@ Este portfolio foi desenvolvido utilizando as seguintes tecnologias:
 
 ## Instruções de Uso
 
+Acesse via o link: https://viniciusgomesrod.github.io/portfolio-vinicius/
+
+Caso prefira localmente:
 - cd PortfolioLab
 - npm install
 - npm run dev
@@ -101,4 +104,5 @@ docs
 Este projeto está licenciado sob a [MIT License](./LICENSE).
 Você pode usar, modificar e distribuir este código, desde que os **devidos créditos sejam dados**, com link para o [original repository](https://github.com/viniciusgomesrod/portfolio). 
 Este projeto foi desenvolvido por [Vinícius Gomes](https://github.com/viniciusgomesrod) e [Thomás Ramos](https://github.com/Thomasramos02) inspirado no portfolio de [Luca Azalim](https://github.com/lucaazalim).
+
 
