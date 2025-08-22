@@ -1,8 +1,8 @@
 {
   "hero": {
     "name": "Vinicius Gomes Rodrigues",
-    "title": "Desenvolvedor Full-Stack | Entusiasta de IA & Cloud",
-    "description": "Sou um desenvolvedor Full Stack apaixonado e versátil, com mais de 7 anos de experiência na construção de aplicações web robustas e escaláveis. Minha expertise abrange frameworks de front-end como React e Vue, tecnologias de back-end como Node.js e Python, e gerenciamento de bancos de dados incluindo MongoDB e PostgreSQL.",
+    "title": "Engenheiro de Software | Front-end | Back-end | Java | Springboot | SQL |",
+    "description": "Sou estudante de engenharia de software, com mais de 2 anos de experiência na construção de aplicações web e desktops. Minha expertise abrange frameworks de front-end como React, tecnologias de back-end como Node.js e Springboot, e gerenciamento de bancos de dados incluindo MySQL e PostgreSQL. Além disso, possuo conhecimento para desenvolvimento desktop utilizando JavaFX/JavaSwing.",
     "email": "viniciusgomes2202@gmail.com",
     "phone": "+55 (31) 9 8598-4390",
     "location": "Belo Horizonte, MG"
@@ -24,13 +24,23 @@
     "degrees": [
       {
         "title": "Bacharel em Engenharia de Software",
-        "institution": "Pontifícia Universidade Católica de Minas Gerais - Fev 2021 - Dez 2024",
-        "details": "Graduado com Honras",
+        "institution": "Pontifícia Universidade Católica de Minas Gerais - Fev 2024 - Dez 2027",
         "buttonText": "Ver Detalhes do Curso"
       },
       {
-        "title": "AWS Certified Solutions Architect – Associate",
-        "institution": "Amazon Web Services - Emitido: Dez 2022"
+        "title": "RH124/RHA - Red Hat System Administration I",
+        "institution": "Red Hat - Emitido em: Mai 2025",
+        "buttonText": "Ver Detalhes do Curso"
+      },
+      {
+        "title": "Modelagem de Dados",
+        "institution": "Fundação Bradesco - Emitido em: Dez 2023",
+        "buttonText": "Ver Detalhes do Curso"
+      },
+      {
+        "title": "Scrum",
+        "institution": "Faculdade Vincit - Emitido em: Fev 2024",
+        "buttonText": "Ver Detalhes do Curso"
       }
     ]
   },
@@ -51,21 +61,41 @@
     "liveDemo": "Ver Demo",
     "sourceCode": "Código Fonte",
     "projects": [
+
       {
         "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-        "title": "Plataforma de Conteúdo com IA",
-        "description": "Desenvolvi uma plataforma full-stack aproveitando IA Generativa para criação e otimização de conteúdo. Implementei recursos de colaboração em tempo real integrados com diversas APIs de terceiros.",
-        "technologies": ["React", "Node.js", "MongoDB", "OpenAI API", "AWS"],
-        "date": "Mar 2020 - Presente",
+        "title": "CranioFix",
+        "description": "Software web e-commerce com gestão de vendas e produtos cirúrgicos integrado à API do MercadoPago, integrado ao Google Maps e Gemini para criação de rotas de entrega das vendas. Possui também módulo de gestão de estoque com sugestão de IA para reposição e emissão de relatórios de produtos.",
+        "technologies": ["AWS", "React", "Javascript", "NodeJS", "NextJS", "Java", "SpringBoot", "PostgreSQL"],
+        "date": "Ago 2025 - Dez 2025",
+        "liveDemoUrl": "#",
+        "sourceCodeUrl": "#"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+        "title": "Tem Que Ser",
+        "description": "Plataforma web para gestão de eventos e palestras (semelhante ao Sympla) com inscrição do cliente em eventos, gerenciamento de sócios por um sócio master, e emissão de relatórios e controle de parceria em eventos.",
+        "technologies": ["HTML5", "CSS3", "BootStrap", "Javascript", "Java", "SpringBoot", "PostgreSQL"],
+        "date": "Fev 2025 - Jun 2025",
+        "liveDemoUrl": "#",
+        "sourceCodeUrl": "#"
+      },
+      
+      {
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+        "title": "Alusoft",
+        "description": "E-commerce com banco de dados relacional integrado à interface front-end, voltado para empresas do setor de construção civil, facilita os processos que envolvem a escolha, compra e comunicação do cliente com a empresa.",
+        "technologies": ["HTML5", "CSS3", "BootStrap", "Javascript", "Java", "SpringBoot", "PostgreSQL"],
+        "date": "Ago 2024 - Nov 2024",
         "liveDemoUrl": "#",
         "sourceCodeUrl": "#"
       },
       {
         "image": "https://images.unsplash.com/photo-1522199755839-a2bacb67c546?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-        "title": "Otimização de Infraestrutura em Nuvem",
-        "description": "Desenhei e implementei soluções escaláveis de infraestrutura em nuvem. Otimizei consultas de banco de dados, reduzindo o tempo de resposta em 35%.",
-        "technologies": ["AWS", "Terraform", "Kubernetes", "Python"],
-        "date": "Jan 2020 - Fev 2023",
+        "title": "JavaParkings",
+        "description": "Software desktop para o gerenciamento de parques de estacionamentos, possibilitando a empresa por meio de uma interface gráfica, gerenciar seus parques e clientes em visualização em tempo real das vagas que estão ocupadas e desocupadas, com emissão de relatórios.",
+        "technologies": ["HTML5", "CSS3", "Java", "SpringBoot", "JavaSwing", "PostgreSQL", "Arquivos .data"],
+        "date": "Ago 2024 - Nov 2024",
         "liveDemoUrl": "#",
         "sourceCodeUrl": "#"
       }
@@ -73,18 +103,14 @@
   },
   "workExperience": [
     {
-      "title": "Plataforma de Conteúdo com IA",
-      "info": "Tech Innovations Inc – Mar 2020 - Presente",
-      "description": "Desenvolvi uma plataforma full-stack aproveitando IA Generativa para criação e otimização de conteúdo. Implementei recursos de colaboração em tempo real integrados com diversas APIs de terceiros.",
-      "tags": ["React", "Node.js", "MongoDB", "OpenAI API", "AWS"],
-      "buttonText": "Ver Projeto"
+      "title": "Freelancer",
+      "info": "Engenheiro de Software – Jan 2024 - Presente",
+      "description": "Desenvolvimento de software web e/ou desktop"
     },
     {
-      "title": "Otimização de Infraestrutura em Nuvem",
-      "info": "Cloud Solutions LLC – Jan 2020 - Fev 2023",
-      "description": "Desenhei e implementei soluções escaláveis de infraestrutura em nuvem. Otimizei consultas de banco de dados, reduzindo o tempo de resposta em 35%.",
-      "tags": ["AWS", "Terraform", "Kubernetes", "Python"],
-      "buttonText": "Ver Estudo de Caso"
+      "title": "Auxiliar Administrativo",
+      "info": "Aluc Alumínio – Jun 2020 - Presente",
+      "description": "Emissão de nota fiscal, realização de orçamentos e conferência de materiais, atendimento ao cliente, controle de planilhas financeiras, análise e levantamento de requisitos, documentação técnica, planejamento de obras."
     }
   ],
   "contactSection": {
