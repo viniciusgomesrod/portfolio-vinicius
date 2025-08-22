@@ -61,7 +61,6 @@
     "liveDemo": "Ver Demo",
     "sourceCode": "Código Fonte",
     "projects": [
-
       {
         "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
         "title": "CranioFix",
@@ -72,7 +71,7 @@
         "sourceCodeUrl": "#"
       },
       {
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+        "image": "/img/tem-que-ser.png",
         "title": "Tem Que Ser",
         "description": "Plataforma web para gestão de eventos e palestras (semelhante ao Sympla) com inscrição do cliente em eventos, gerenciamento de sócios por um sócio master, e emissão de relatórios e controle de parceria em eventos.",
         "technologies": ["HTML5", "CSS3", "BootStrap", "Javascript", "Java", "SpringBoot", "PostgreSQL"],
@@ -80,9 +79,8 @@
         "liveDemoUrl": "#",
         "sourceCodeUrl": "#"
       },
-      
       {
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+        "image": "/img/alu-soft.jpeg",
         "title": "Alusoft",
         "description": "E-commerce com banco de dados relacional integrado à interface front-end, voltado para empresas do setor de construção civil, facilita os processos que envolvem a escolha, compra e comunicação do cliente com a empresa.",
         "technologies": ["HTML5", "CSS3", "BootStrap", "Javascript", "Java", "SpringBoot", "PostgreSQL"],
