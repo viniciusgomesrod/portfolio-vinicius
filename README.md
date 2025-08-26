@@ -86,28 +86,21 @@ PORTFOLIO-VINICIUS/
 └── README.md
 ```
 
-| Directory            | Description                                             |
-| -------------------- | ------------------------------------------------------- |
-| `app`                | Root directory for Next.js application with app router. |
-| `app/_components`    | Shared components used across multiple pages.           |
-| `app/_components/ui` | Shadcn/UI components.                                   |
-| `app/(home)`         | Homepage components and layout.                         |
-| `app/api`            | API routes for server-side functionality.               |
-| `app/api/movies`     | Endpoint for fetching movies data.                      |
-| `app/api/og`         | Open Graph image generation API for the blog.           |
-| `app/blog`           | Blog components, pages and layout.                      |
-| `app/contact`        | Contact page components and layout.                     |
-| `app/resume`         | Resume page components and layout.                      |
-| `app/academics`      | Academics page components and layout.                   |
-| `app/movies`         | Movies page components and layout.                      |
-| `app/projects`       | Projects page components and layout.                    |
-| `app/videos`         | Videos page components and layout.                      |
-| `data`               | Static data files.                                      |
-| `data/movies`        | JSON files containing movies and their metadata.        |
-| `data/posts`         | MDX files for blog posts.                               |
-| `docs`         | Documentos e artefatos para criação do projeto.                               |
-| `lib`                | Utility functions, types, and helper code.              |
-| `public`             | Public static assets like images.                       |
+| Directory              | Description                                             |
+| ---------------------- | ------------------------------------------------------- |
+| `dist`                 | Compiled/built output of the project.                  |
+| `node_modules`         | Project dependencies installed via npm/yarn.           |
+| `public`               | Public static assets like images and icons.            |
+| `src`                  | Source code for the React application.                 |
+| `src/components`       | Reusable React components for pages and layouts.       |
+| `src/images`           | Images used across the application.                    |
+| `src/locales`          | Translation JSON files for internationalization (i18n).|
+| `src/styles`           | CSS and module CSS files for styling components.       |
+| `src/App.jsx`          | Main application component.                             |
+| `src/i18n.js`          | Internationalization setup.                             |
+| `src/main.jsx`         | Entry point of the React application.                  |
+| `docs`                 | Documentation and project artifacts.                   |
+| `README.md`            | Project overview and instructions.                     |
 
 ---
 
