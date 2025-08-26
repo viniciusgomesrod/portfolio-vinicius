@@ -1,0 +1,142 @@
+  {
+    "hero": {
+    "name": "Vinicius Gomes Rodrigues",
+    "title": "Software Engineer | Front-end | Back-end | Java | Springboot | SQL |",
+    "description": "I am a Software Engineering student with over 2 years of experience in building web and desktop applications. My expertise covers front-end frameworks such as React, back-end technologies like Node.js and Springboot, and database management including MySQL and PostgreSQL. In addition, I have knowledge in desktop development using JavaFX/JavaSwing.",
+    "email": "viniciusgomes2202@gmail.com",
+    "phone": "+55 (31) 9 8598-4390",
+    "location": "Belo Horizonte, MG"
+  },
+    "header": {
+      "about": "About",
+      "projects": "Projects",
+      "education": "Education",
+      "contact": "Contact"
+    },
+    "footer": {
+      "resources": "Resources",
+      "legal": "Legal",
+      "contact": "Contact",
+      "rights": "All rights reserved."
+    },
+    "educationDashboard": {
+    "sectionTitle": "My Education & Certifications",
+    "degrees": [
+      {
+        "title": "Bachelor of Science in Software Engineering",
+        "institution": "Pontifical Catholic University of Minas Gerais - Feb 2024 - Dec 2027",
+        "buttonText": "View Course Details"
+      },
+      {
+        "title": "RH124/RHA - Red Hat System Administration I",
+        "institution": "Red Hat - Issued: May 2025",
+        "buttonText": "View Course Details"
+      },
+      {
+        "title": "Data Modeling",
+        "institution": "Fundação Bradesco - Issued: Dec 2023",
+        "details": "Online course on database fundamentals, including basic structure, relationship types and the MER model, database integrity and normalization.",
+        "buttonText": "View Course Details"
+      },
+      {
+        "title": "Scrum",
+        "institution": "Faculdade Vincit - Issued: Feb 2024",
+        "details": "Concept, history, real-world applications of the Scrum model in the job market, actors and roles in the IT team, ceremonies, and deadlines.7",
+        "buttonText": "View Course Details"
+      }
+    ]
+  },
+    "projectsDashboard": {
+    "heroTitle": "My Creative Work",
+    "heroSubtitle": "A showcase of innovative solutions and passionate development across various domains.",
+    "featuredProjects": "Featured Projects",
+    "liveDemo": "View Demo",
+    "sourceCode": "Source Code",
+    "projects": [
+      {
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+        "title": "CranioFix",
+        "description": "E-commerce web software with sales and surgical product management, integrated with MercadoPago API, Google Maps and Gemini for delivery route creation. It also includes inventory management with AI-based replenishment suggestions and product reporting.",
+        "technologies": ["AWS", "React", "Javascript", "NodeJS", "NextJS", "Java", "SpringBoot", "PostgreSQL"],
+        "date": "Aug 2025 - Dec 2025",
+        "liveDemoUrl": "#",
+        "sourceCodeUrl": "#"
+      },
+      {
+        "image": "/images/tem-que-ser.png",
+        "title": "Tem Que Ser",
+        "description": "Web platform for event and lecture management (similar to Sympla) with customer registration in events, member management by a master member, reporting, and partnership control in events.",
+        "technologies": ["HTML5", "CSS3", "BootStrap", "Javascript", "Java", "SpringBoot", "PostgreSQL"],
+        "date": "Feb 2025 - Jun 2025",
+        "liveDemoUrl": "#",
+        "sourceCodeUrl": "#"
+      },
+      {
+        "image": "/images/alu-soft.jpeg",
+        "title": "Alusoft",
+        "description": "E-commerce with a relational database integrated into the front-end interface, focused on companies in the construction sector, facilitating processes involving customer choice, purchase, and communication with the company.",
+        "technologies": ["HTML5", "CSS3", "BootStrap", "Javascript", "Java", "SpringBoot", "PostgreSQL"],
+        "date": "Aug 2024 - Nov 2024",
+        "liveDemoUrl": "#",
+        "sourceCodeUrl": "#"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1522199755839-a2bacb67c546?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+        "title": "JavaParkings",
+        "description": "Desktop software for parking management, allowing companies to manage parks and clients through a graphical interface with real-time visualization of occupied and free spots, and report generation.",
+        "technologies": ["HTML5", "CSS3", "Java", "SpringBoot", "JavaSwing", "PostgreSQL", ".data files"],
+        "date": "Aug 2024 - Nov 2024",
+        "liveDemoUrl": "#",
+        "sourceCodeUrl": "#"
+      }
+    ]
+  },
+    "workExperience": [
+    {
+      "title": "Freelancer",
+      "info": "Software Engineer – Jan 2024 - Present",
+      "description": "Development of web and/or desktop software",
+      "tags": ["React", "Node.js", "MongoDB", "OpenAI API", "AWS"],
+      "buttonText": "View Project"
+    },
+    {
+      "title": "Administrative Assistant",
+      "info": "Aluc Alumínio – Jun 2020 - Present",
+      "description": "Issuing invoices, preparing quotations and checking materials, customer service, financial spreadsheet control, requirements analysis and gathering, technical documentation, and construction planning.",
+      "tags": ["React", "Node.js", "MongoDB", "OpenAI API", "AWS"],
+      "buttonText": "View Project"
+    }
+  ],
+    "degreeDetails": {
+      "overviewTitle": "OVERVIEW",
+      "degreeName": "Software Engineering",
+      "description": "A detailed list of all subjects and grades in the Software Engineering degree at PUC Minas, showing my learning progress and experience across various technical domains.",
+      "semester": "Semester",
+      "course": "Course",
+      "hours": "C.H.",
+      "modality": "Modality",
+      "grade": "Grade",
+      "status": "Status",
+      "average": "Average",
+      "courses": [
+        { "name": "Artificial Intelligence", "hours": 95, "modality": "Hybrid", "grade": 9.5, "status": "Passed" },
+        { "name": "Data Structures", "hours": 80, "modality": "Hybrid", "grade": 9.2, "status": "Passed" },
+        { "name": "Web Development", "hours": 95, "modality": "Online", "grade": 9.8, "status": "Passed" },
+        { "name": "Algorithms", "hours": 80, "modality": "Hybrid", "grade": 9.0, "status": "Passed" }
+      ]
+    },
+    "contactSection": {
+      "sectionTitle": "Contact Me",
+      "headerTitle": "Get in Touch for Opportunities",
+      "headerSubtitle": "My goal is to turn ideas into great results. Whether you are looking for a partnership, want to discuss a concept, or just share ideas, I’m here to chat!",
+      "emailLabel": "EMAIL",
+      "whatsappLabel": "WHATSAPP",
+      "locationLabel": "LOCATION",
+      "placeholderName": "Your full name",
+      "placeholderEmail": "your.email@example.com",
+      "placeholderSubject": "Subject",
+      "placeholderMessage": "Your message...",
+      "submitBtn": "Send Message"
+    }
+  }
+

@@ -1,0 +1,141 @@
+{
+  "hero": {
+    "name": "Vinicius Gomes Rodrigues",
+    "title": "Engenheiro de Software | Front-end | Back-end | Java | Springboot | SQL |",
+    "description": "Sou estudante de Engenharia de Software com mais de 2 anos de experiência em desenvolvimento de aplicações web e desktop. Minha expertise abrange frameworks front-end como React, tecnologias back-end como Node.js e Springboot, e gerenciamento de bancos de dados, incluindo MySQL e PostgreSQL. Além disso, possuo conhecimento em desenvolvimento desktop usando JavaFX/JavaSwing.",
+    "email": "viniciusgomes2202@gmail.com",
+    "phone": "+55 (31) 9 8598-4390",
+    "location": "Belo Horizonte, MG"
+  },
+  "header": {
+    "about": "About",
+    "projects": "Projects",
+    "education": "Education",
+    "contact": "Contact"
+  },
+  "footer": {
+    "resources": "Resources",
+    "legal": "Legal",
+    "contact": "Contact",
+    "rights": "All rights reserved."
+  },
+  "educationDashboard": {
+    "sectionTitle": "My Education & Certifications",
+    "degrees": [
+      {
+        "title": "Bachelor of Science in Software Engineering",
+        "institution": "Pontificia Universidade Católica de Minas Gerais - Fev 2024 - Dez 2027",
+        "buttonText": "View Course Details"
+      },
+      {
+        "title": "RH124/RHA - Red Hat System Administration I",
+        "institution": "Red Hat - Issued: Mai 2025",
+        "buttonText": "View Course Details"
+      },
+      {
+        "title": "Data Modeling",
+        "institution": "Fundação Bradesco - Emitido: Dez 2023",
+        "details": "Curso online de fundamentos de banco de dados, com estrutura básica, tipos de relacionamento e modelo MER, integridades de banco de dados e normalização",
+        "buttonText": "View Course Details"
+      },
+      {
+        "title": "Scrum",
+        "institution": "Faculdade Vincit - Issued: Fev 2024",
+        "details": "Conceito, história, aplicações reais do modelo Scrum no mercado de trabalho, atores e papéis no time de TI, cerimônias e prazos.",
+        "buttonText": "View Course Details"
+      }
+    ]
+  },
+  "projectsDashboard": {
+    "heroTitle": "My Creative Work",
+    "heroSubtitle": "A showcase of innovative solutions and passionate development across various domains.",
+    "featuredProjects": "Featured Projects",
+    "liveDemo": "View Demo",
+    "sourceCode": "Source Code",
+    "projects": [
+      {
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+        "title": "CranioFix",
+        "description": "Software web de e-commerce com gestão de vendas e produtos cirúrgicos, integrado com API MercadoPago, Google Maps e Gemini para criação de rotas de entrega. Também inclui gerenciamento de estoque com sugestões de reposição baseadas em IA e relatórios de produtos.",
+        "technologies": ["AWS", "React", "Javascript", "NodeJS", "NextJS", "Java", "SpringBoot", "PostgreSQL"],
+        "date": "Aug 2025 - Dec 2025",
+        "liveDemoUrl": "#",
+        "sourceCodeUrl": "#"
+      },
+      {
+        "image": "https://github.com/viniciusgomesrod/portfolio-lab01/blob/main/portfoliolab/public/images/tem-que-ser.png",
+        "title": "Tem Que Ser",
+        "description": "Plataforma web para gestão de eventos e palestras (similar ao Sympla) com cadastro de clientes em eventos, gestão de membros por um membro master, relatórios e controle de parcerias nos eventos.",
+        "technologies": ["HTML5", "CSS3", "BootStrap", "Javascript", "Java", "SpringBoot", "PostgreSQL"],
+        "date": "Feb 2025 - Jun 2025",
+        "liveDemoUrl": "#",
+        "sourceCodeUrl": "#"
+      },
+      {
+        "image": "https://github.com/viniciusgomesrod/portfolio-lab01/blob/main/portfoliolab/public/images/alu-soft.jpeg",
+        "title": "Alusoft",
+        "description": "E-commerce com banco de dados relacional integrado à interface front-end, focado em empresas do setor de construção, facilitando processos envolvendo escolha do cliente, compra e comunicação com a empresa.",
+        "technologies": ["HTML5", "CSS3", "BootStrap", "Javascript", "Java", "SpringBoot", "PostgreSQL"],
+        "date": "Aug 2024 - Nov 2024",
+        "liveDemoUrl": "#",
+        "sourceCodeUrl": "#"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1522199755839-a2bacb67c546?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+        "title": "JavaParkings",
+        "description": "Software desktop para gestão de estacionamentos, permitindo que empresas gerenciem parques e clientes por meio de interface gráfica com visualização em tempo real das vagas ocupadas e livres, além da geração de relatórios.",
+        "technologies": ["HTML5", "CSS3", "Java", "SpringBoot", "JavaSwing", "PostgreSQL", ".data files"],
+        "date": "Aug 2024 - Nov 2024",
+        "liveDemoUrl": "#",
+        "sourceCodeUrl": "#"
+      }
+    ]
+  },
+  "workExperience": [
+    {
+      "title": "Freelancer",
+      "info": "Engenheiro de Software – Jan 2024 - Presente",
+      "description": "Desenvolvimento de softwares web e/ou desktop",
+      "tags": ["React", "Node.js", "MongoDB", "OpenAI API", "AWS"],
+      "buttonText": "View Project"
+    },
+    {
+      "title": "Auxiliar Administrativo",
+      "info": "Aluc Alumínio – Jun 2020 - Presente",
+      "description": "Emissão de notas fiscais, preparação de orçamentos e conferência de materiais, atendimento ao cliente, controle de planilhas financeiras, análise e levantamento de requisitos, documentação técnica e planejamento de obras.",
+      "tags": ["React", "Node.js", "MongoDB", "OpenAI API", "AWS"],
+      "buttonText": "View Project"
+    }
+  ],
+  "degreeDetails": {
+    "overviewTitle": "OVERVIEW",
+    "degreeName": "Engenharia de Software",
+    "description": "A detailed list of all subjects and grades in the Software Engineering degree at PUC Minas, showing my learning progress and experience across various technical domains.",
+    "semester": "Semester",
+    "course": "Course",
+    "hours": "C.H.",
+    "modality": "Modality",
+    "grade": "Grade",
+    "status": "Status",
+    "average": "Average",
+    "courses": [
+      { "name": "Artificial Intelligence", "hours": 95, "modality": "Hybrid", "grade": 9.5, "status": "Passed" },
+      { "name": "Data Structures", "hours": 80, "modality": "Hybrid", "grade": 9.2, "status": "Passed" },
+      { "name": "Web Development", "hours": 95, "modality": "Online", "grade": 9.8, "status": "Passed" },
+      { "name": "Algorithms", "hours": 80, "modality": "Hybrid", "grade": 9.0, "status": "Passed" }
+    ]
+  },
+  "contactSection": {
+    "sectionTitle": "Contate-me",
+    "headerTitle": "Entre em contato para oportunidades",
+    "headerSubtitle": "Meu objetivo é transformar ideias em grandes resultados. Se você busca uma parceria, quer discutir um conceito ou apenas compartilhar ideias, estou aqui para conversar!",
+    "emailLabel": "EMAIL",
+    "whatsappLabel": "WHATSAPP",
+    "locationLabel": "LOCAL",
+    "placeholderName": "Seu nome completo",
+    "placeholderEmail": "seu.email@exemplo.com",
+    "placeholderSubject": "Assunto",
+    "placeholderMessage": "Sua messagem...",
+    "submitBtn": "Enviar Mensagem"
+  }
+}
