@@ -15,9 +15,10 @@ import { useTranslation } from "react-i18next";
 function App() {
   const [activeSection, setActiveSection] = useState('about');
   const [view, setView] = useState('portfolio');
-  const {i18n} = useTranslation();
-  const toggleTranslation = () =>{
-    i18n.changeLanguage(i18n.language == "pt" ? "en" : "pt");
+  const { i18n } = useTranslation();
+
+  const toggleTranslation = () => {
+    i18n.changeLanguage(i18n.language === "pt" ? "en" : "pt");
   }
 
   useEffect(() => {
@@ -26,18 +27,12 @@ function App() {
 
   const handleNavigate = (section) => {
     setActiveSection(section);
-    if (section === 'education') {
-      setView('degreeDetails');
-    } else if(section == 'contact'){
-      setView('contact')
-    }else {
-      setView('portfolio');
-    }
+    if (section === 'education') setView('degreeDetails');
+    else if (section === 'contact') setView('contact');
+    else setView('portfolio');
   };
 
   const handleBackToPortfolio = () => {
-    // Ao voltar para o portfólio, define a seção ativa como 'about' 
-    // ou outra seção padrão que você preferir.
     setActiveSection('about');
     setView('portfolio');
   }
@@ -47,14 +42,10 @@ function App() {
       <Header activeSection={activeSection} onNavigate={handleNavigate} />
       
       <main>
-
-        {}
         {view === 'degreeDetails' ? (
           <DegreeDetails />
-
         ) : view === 'contact' ? (
           <Contact />
-
         ) : (
           <>
             {activeSection === 'projects' ? (
@@ -63,7 +54,6 @@ function App() {
               <>
                 <Hero />
                 <WorkExperience />
-                {}
                 <Education onNavigateToDegreeDetails={() => {
                     setActiveSection('education'); 
                     setView('degreeDetails');

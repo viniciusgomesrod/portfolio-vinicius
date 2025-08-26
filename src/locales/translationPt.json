@@ -63,7 +63,7 @@
         "sourceCodeUrl": "#"
       },
       {
-        "image": "https://github.com/viniciusgomesrod/portfolio-lab01/blob/main/portfoliolab/public/images/tem-que-ser.png",
+        "image": "/images/tem-que-ser.png",
         "title": "Tem Que Ser",
         "description": "Plataforma web para gestão de eventos e palestras (similar ao Sympla) com cadastro de clientes em eventos, gestão de membros por um membro master, relatórios e controle de parcerias nos eventos.",
         "technologies": ["HTML5", "CSS3", "BootStrap", "Javascript", "Java", "SpringBoot", "PostgreSQL"],
@@ -72,7 +72,7 @@
         "sourceCodeUrl": "#"
       },
       {
-        "image": "https://github.com/viniciusgomesrod/portfolio-lab01/blob/main/portfoliolab/public/images/alu-soft.jpeg",
+        "image": "/images/alu-soft.jpeg",
         "title": "Alusoft",
         "description": "E-commerce com banco de dados relacional integrado à interface front-end, focado em empresas do setor de construção, facilitando processos envolvendo escolha do cliente, compra e comunicação com a empresa.",
         "technologies": ["HTML5", "CSS3", "BootStrap", "Javascript", "Java", "SpringBoot", "PostgreSQL"],
@@ -96,14 +96,14 @@
       "title": "Freelancer",
       "info": "Engenheiro de Software – Jan 2024 - Presente",
       "description": "Desenvolvimento de softwares web e/ou desktop",
-      "tags": ["React", "Node.js", "MongoDB", "OpenAI API", "AWS"],
+      "tags": ["Java", "Springboot", "Javascript","React", "Node.js", "PostgreSQL", "API Mercado Pago", "AWS"],
       "buttonText": "View Project"
     },
     {
       "title": "Auxiliar Administrativo",
       "info": "Aluc Alumínio – Jun 2020 - Presente",
       "description": "Emissão de notas fiscais, preparação de orçamentos e conferência de materiais, atendimento ao cliente, controle de planilhas financeiras, análise e levantamento de requisitos, documentação técnica e planejamento de obras.",
-      "tags": ["React", "Node.js", "MongoDB", "OpenAI API", "AWS"],
+      "tags": ["Levantamento de requisitos", "Análise de requisitos", "Controle financeiro", "Propostas comerciais", "Contratos", "Nota fiscal"],
       "buttonText": "View Project"
     }
   ],

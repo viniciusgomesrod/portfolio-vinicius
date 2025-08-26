@@ -96,14 +96,14 @@
       "title": "Freelancer",
       "info": "Software Engineer – Jan 2024 - Present",
       "description": "Development of web and/or desktop software",
-      "tags": ["React", "Node.js", "MongoDB", "OpenAI API", "AWS"],
+      "tags": ["Java", "Springboot", "Javascript","React", "Node.js", "PostgreSQL", "API Mercado Pago", "AWS"],
       "buttonText": "View Project"
     },
     {
       "title": "Administrative Assistant",
       "info": "Aluc Alumínio – Jun 2020 - Present",
       "description": "Issuing invoices, preparing quotations and checking materials, customer service, financial spreadsheet control, requirements analysis and gathering, technical documentation, and construction planning.",
-      "tags": ["React", "Node.js", "MongoDB", "OpenAI API", "AWS"],
+      "tags": ["Requirements gathering", "Requirements analysis", "Financial control", "Commercial proposals", "Contracts", "Invoice"],
       "buttonText": "View Project"
     }
   ],
